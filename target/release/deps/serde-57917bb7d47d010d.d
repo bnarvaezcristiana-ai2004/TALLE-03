@@ -1,0 +1,14 @@
+/home/cristianbravo/proyecto_gases_ia/target/release/deps/serde-57917bb7d47d010d.d: /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/cristianbravo/proyecto_gases_ia/target/release/build/serde-a463afe2f9a121c6/out/private.rs
+
+/home/cristianbravo/proyecto_gases_ia/target/release/deps/libserde-57917bb7d47d010d.rlib: /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/cristianbravo/proyecto_gases_ia/target/release/build/serde-a463afe2f9a121c6/out/private.rs
+
+/home/cristianbravo/proyecto_gases_ia/target/release/deps/libserde-57917bb7d47d010d.rmeta: /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/cristianbravo/proyecto_gases_ia/target/release/build/serde-a463afe2f9a121c6/out/private.rs
+
+/home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/cristianbravo/proyecto_gases_ia/target/release/build/serde-a463afe2f9a121c6/out/private.rs:
+
+# env-dep:OUT_DIR=/home/cristianbravo/proyecto_gases_ia/target/release/build/serde-a463afe2f9a121c6/out

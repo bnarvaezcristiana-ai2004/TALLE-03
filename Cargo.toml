@@ -1,0 +1,16 @@
+[package]
+name = "proyecto_gases_hi"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+polars = { version = "0.38", features = ["lazy", "parquet", "csv", "temporal", "strings"] }
+chrono = { version = "0.4", features = ["serde"] }
+plotters = "0.3"
+serde = { version = "1.0", features = ["derive"] }
+clap = { version = "4.4", features = ["derive"] }
+thiserror = "1.0"
+anyhow = "1.0"
+tracing = "0.1"
+tracing-subscriber = "0.3"
+csv = "1.3"

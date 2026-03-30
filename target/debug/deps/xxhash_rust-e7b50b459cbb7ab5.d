@@ -1,0 +1,10 @@
+/home/cristianbravo/proyecto_gases_ia/target/debug/deps/xxhash_rust-e7b50b459cbb7ab5.d: /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/lib.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/utils.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/xxh32_common.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/xxh64_common.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/xxh3_common.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/xxh3.rs
+
+/home/cristianbravo/proyecto_gases_ia/target/debug/deps/libxxhash_rust-e7b50b459cbb7ab5.rmeta: /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/lib.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/utils.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/xxh32_common.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/xxh64_common.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/xxh3_common.rs /home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/xxh3.rs
+
+/home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/lib.rs:
+/home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/utils.rs:
+/home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/xxh32_common.rs:
+/home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/xxh64_common.rs:
+/home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/xxh3_common.rs:
+/home/cristianbravo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xxhash-rust-0.8.15/src/xxh3.rs:

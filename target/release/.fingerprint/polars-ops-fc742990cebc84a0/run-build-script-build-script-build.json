@@ -1,0 +1,1 @@
+{"rustc":18276270781310494267,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[15891545168256804569,"build_script_build",false,10036108992286270609]],"local":[{"RerunIfChanged":{"output":"release/build/polars-ops-fc742990cebc84a0/output","paths":["build.rs"]}}],"rustflags":[],"config":0,"compile_kind":0}
